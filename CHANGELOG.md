@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v1.5.2 - 12/12/2012
+
+* Test
+
 ## v1.5.1 - 19/01/2021
 
 * Fix error when writing and closing file with QTemporaryFile
